@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">线性表</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="顺序存储结构">顺序存储结构</string>
+    <string name="链式存储结构">链式存储结构</string>
+    <string name="输入位置">输入位置</string>
+    <string name="输入值">输入值</string>
+    <string name="输入">输入</string>
+    <string name="maxSize">maxSize</string>
+    <string name="删除结点">删除结点</string>
+</resources>
